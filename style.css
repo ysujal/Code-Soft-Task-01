@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.sidebar{
+    background-color: rgb(108, 212, 221);
+    width: 30vw;
+    height: 100;
+
+}
+.sidebar nav{
+    padding: 72px;
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 30px;
+    padding: 30px 0;
+}
+.sidebar nav li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.main{
+    background-color: white(50, 58, 205);
+    width: 80vw;
+}
+.container{
+    display: flex;
+    
+}
+.infocontainer{
+    background-color: lightpink;
+    height: vh;
+    width: 80vw;
+    margin: 144px auto;
+    display: flex;
+    font-size: xx-large;
+    
+
+
+}
+.Contact{
+    background-color: rgb(157, 136, 136);
+    height: 100vh;
+    width: 100vw;
+    font-size: xx-large;
+    
+}
+.About{
+    background-color: papayawhip;
+    height: 100vh;
+    width: 80vw;
+    font-size: xx-large;
+
+    
+}
+.Skill{
+ 
+    font-size: xx-large;
+background-color: rgb(207, 207, 235);
+height: 100vh;
+width: 80vw;
+
+}
+.Resume{
+    background-color: bisque;
+    height: 100vh;
+    width: 100vw;
+    font-size: xx-large;
+}
